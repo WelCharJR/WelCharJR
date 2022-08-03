@@ -1,4 +1,4 @@
-### Olá eu sou o Welington Charnet Junior, e sou estudante de programação  👋
+### Olá eu sou o Welington, e sou estudante de programação  👋
 
 - 🌱 Estou aprendendo python e outras linguagens backend
 
