@@ -1,6 +1,7 @@
-### Olá eu sou o Welington, e sou estudante de programação  👋
+### Hi 👋, I'm Welington 
 
-- 🌱 Estou aprendendo python e outras linguagens backend
+- 🌱 I am studying python and other backend languages, to be a backend programmer in the future
+
 
 <div align="center">
   <a href="https://github.com/WelCharJR">
@@ -20,7 +21,6 @@
 </div>
 
 ##
-
 <div>
 <a href = "https://www.linkedin.com/in/welington-c-584886228/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   
